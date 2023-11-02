@@ -1,0 +1,4 @@
+Rencana belajar kedepannya
+
+menyelesaikan materi git
+menyelesaikan materi react
