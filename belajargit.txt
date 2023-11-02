@@ -2,7 +2,11 @@ Azzam abdillah
 lahir: 31-12-2007
   *tapung
   *pekanbaru riau
+    ^ alamanda
+    ^ flamboyan
 heart:  nia 
 ayah:sandi eka cahyadi
+^ tanjung jati
 cita-cita:programer
 bagian: front-end
+tempat: kitakaleecourse
