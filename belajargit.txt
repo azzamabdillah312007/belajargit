@@ -3,5 +3,6 @@ lahir: 31-12-2007
   *tapung
   *pekanbaru riau
 heart:  nia 
+ayah:sandi eka cahyadi
 cita-cita:programer
 bagian: front-end
